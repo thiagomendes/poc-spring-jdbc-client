@@ -73,9 +73,3 @@ Content-Type: application/json
 ```
 
 ---
-
-## Tecnologias Usadas
-
-- **Spring Boot 3.2**
-- **Spring JDBC (JdbcClient e JdbcTemplate)**
-- **H2 Database** (em memória)
